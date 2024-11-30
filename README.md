@@ -11,7 +11,7 @@ This project is built with **React.js** for the frontend, **Node.js** with **Exp
 
 ## Demo
 
-![Zerodha Clone Demo](assets/zerodha-clone-demo.gif)
+![Zerodha Clone Demo](image.png)
 
 ## Features
 
